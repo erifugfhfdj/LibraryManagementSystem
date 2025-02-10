@@ -36,7 +36,7 @@ CLIENT can do -
 1. Clone the project
 
 ```bash
-  git clone git@github.com:MrAalu/LibraryManagementSystem_MERN.git
+  git clone https://github.com/erifugfhfdj/LibraryManagementSystem.git
 ```
 
 2. Goto Both 'Frontend' and 'Backend' folder
